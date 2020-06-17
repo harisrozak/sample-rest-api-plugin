@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Sample REST API Plugin
  * Plugin URI:
- * Description: Simple image sample plugin
+ * Description: Simple plugin to describe how to connect a plugin to WP REST API
  * Version: 0.1
  * Author: Haris Ainur Rozak
  * Author URI: https://harisrozak.github.io
